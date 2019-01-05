@@ -9,7 +9,9 @@ return actor
 end
 
 def monopoly
-	monopoly = {}
+	monopoly = {
+	  :railroads=>{}
+	}
 
 end
 
